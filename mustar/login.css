@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+
+}
+
+div{
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    background:#ddd;
+
+}
+
+ul{
+    width: 600px;
+    height: 600px;
+}
+
+ul li{
+    list-style:none;
+    line-height:100px;
+    font-size: 20px;
+    color:blue;
+}
